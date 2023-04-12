@@ -89,8 +89,8 @@ def nsrate(maindir='',nsid='',clid='06_cl_sunpos',outfile='',\
     # hisotgram number of events per the livetime 1s bins
     cnta, bea=np.histogram(tda,bins=tdedgs)
     cntb, beb=np.histogram(tdb,bins=tdedgs)
-    rta=cnta/lda['LIVETIME'][:-1]
-    rtb=cntb/ldb['LIVETIME'][:-1]
+    rta=cnta/lda['LIVETIME'][:len(cnta)]
+    rtb=cntb/ldb['LIVETIME'][:len(cntb)]
 
     # turn it into a pandas dataframe
     if lvt:
