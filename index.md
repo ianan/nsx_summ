@@ -1,5 +1,3 @@
-[repo]:https://github.com/ianan/nsx_summ/tree/main/
-
 |   |  Dates |  Figs Directory |
 |---|---|---|
 |  ns_20220224 |   | [figs/ns_20220224](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20220224) |
