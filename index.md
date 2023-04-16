@@ -1,5 +1,5 @@
 | Old Sum  |  Dates & Times |  Figs Directory | Notes |
-|---|---|---|---|
+|---|:---:|---|---|
 |  [ns_20200606](http://ianan.github.io/nsigh_all/#obs-22-06-jun-2020) |  |  |  |
 |  [ns_20200912](http://ianan.github.io/nsigh_all/#obs-23-12-sep-2020) |  |  | Quiet Sun |
 |  [ns_20210108](http://ianan.github.io/nsigh_all/#obs-24-08-jan-2021) |  |  |  |
