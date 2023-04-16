@@ -1,5 +1,3 @@
-<center>
-
 | Old Sum  |  Dates & Times |  Figs Directory | Notes |
 |---|---|---|---|
 |  [ns_20200606](http://ianan.github.io/nsigh_all/#obs-22-06-jun-2020) |  |  |  |
@@ -14,5 +12,3 @@
 |  [ns_20220906](http://ianan.github.io/nsigh_all/#obs-31-06-sep-2022) | 06-Sep-2022 15:44 - 06-Sep-2022 21:33  | [figs/ns_20220906](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20220906/index.md)  |  |
 |  [ns_20221209](http://ianan.github.io/nsigh_all/#obs-32-09-dec-2022) |  09-Dec-2022 23:38 - 10-Dec-2022 02:16 <br/> 11-Dec-2022 17:48 - 12-Dec-2022 00:55 | [figs/ns_20221209](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20221209/index.md) |  |
 |  [ns_20230318](http://ianan.github.io/nsigh_all/#obs-33-18-mar-2023) |  18-Mar-2023 13:30 - 19-Mar-2023 00:07 | [figs/ns_20230318](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20230318/index.md) |  |
-
-</center>
