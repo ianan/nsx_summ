@@ -23,6 +23,7 @@ import astropy.time as atime
 import astropy.units as u
 
 import numpy as np
+import sunpy.map
 
 import nustar_pysolar as nustar
 import pandas as pd
@@ -31,7 +32,20 @@ import warnings
 warnings.simplefilter('ignore')
 
 # ------------------------------------------
-# Do livetime and rate per FPM
+# Find the centre of a NuSTAR map
+def nsmapcen(nsmap):
+    nnx=np.sum(nsmap.data,0)
+    nny=np.sum(nsmap.data,1)
+
+    idx=np.where(nnx > 0)
+    cx=int((np.max(idx)+np.min(idx))/2)
+    idy=np.where(nny > 0)
+    cy=int((np.max(idy)+np.min(idy))/2)
+    pw=nsmap.pixel_to_world(cx*u.pix,cy*u.pix)
+    return pw, cx*u.pix, cy*u.pix
+
+# ------------------------------------------
+# Lightcurve with livetime and rate per FPM
 def nsrate(maindir='',nsid='',clid='06_cl_sunpos',outfile='',\
         englow=0,enghigh=0,xy_range=[],det_id='',lvt=True):
 
