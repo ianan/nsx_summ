@@ -108,11 +108,11 @@ def nsrate(maindir='',nsid='',clid='06_cl_sunpos',outfile='',\
 
     # turn it into a pandas dataframe
     if lvt:
-        dfl=pd.DataFrame(np.array([lda['LIVETIME'][:-1],ldb['LIVETIME'][:-1],rta,rtb]).T, \
-            index=ltimsa.datetime[:-1], columns=['lvta','lvtb','rta','rtb'])
+        dfl=pd.DataFrame(np.array([lda['LIVETIME'][:len(cnta)],ldb['LIVETIME'][:len(cntb)],rta,rtb]).T, \
+            index=ltimsa.datetime[:len(cnta)], columns=['lvta','lvtb','rta','rtb'])
     else:
         dfl=pd.DataFrame(np.array([rta,rtb]).T, \
-            index=ltimsa.datetime[:-1], columns=['rta','rtb'])
+            index=ltimsa.datetime[:len(cnta)], columns=['rta','rtb'])
 
     # truncate to time range of the evt file
     # Start/End round up/down to nearest 1s
