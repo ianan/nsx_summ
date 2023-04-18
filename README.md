@@ -1,6 +1,8 @@
 # nsx_summ
 Summary plots of NuSTAR solar obs with other X-ray data.
 
+To see overview info check out [index.md](index.md) or [https://ianan.github.io/nsx_summ/](https://ianan.github.io/nsx_summ/)
+
 Some info/caveats:
 
 * Bottom panel lightcurve for whole NuSTAR field of view, FPMA, FPMB and 2-10 keV
