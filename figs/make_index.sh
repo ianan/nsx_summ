@@ -15,11 +15,11 @@ do
 	# 	# echo "$dd - $d"
 	# 	fname=${d:4:29}
 	# 	obsid=${d:18:11}
-	# 	echo "|![]($d)|$obsid<br/>![](map_$fname.png)<br/>![](eph_$fname.png)|" | tee -a index.md
+	# 	echo "|![]($d)|$obsid<br/>![](map_$fname.png)<br/>![](orbeph_$fname.png)|" | tee -a index.md
 	# done
 
 	cd $dd
-	echo "|  LtC |  Map | Eph |" | tee index.md
+	echo "|  Lightcurves |  Map | Orbit |" | tee index.md
 	echo "|:---:|:---:|:---:|" | tee -a index.md
 	for d in ltc*
 	do
@@ -27,7 +27,7 @@ do
 		fname=${d:4:29}
 		obsid=${d:18:11}
    		# echo "|$obsid|![]($d)|![](map_$fname.png)|![](eph_$fname.png)|" | tee -a index.md
-		echo "|![]($d)|$obsid<br/>![](map_$fname.png)|![](eph_$fname.png)|" | tee -a index.md
+		echo "|![]($d)|$obsid<br/>![](map_$fname.png)|![](orbeph_$fname.png)|" | tee -a index.md
 	done
 	cd $maindir
 done
