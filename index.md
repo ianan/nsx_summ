@@ -13,4 +13,4 @@
 |  [ns_20220603](http://ianan.github.io/nsigh_all/#obs-30-03-jun-2022) | 03-Jun-2022 13:30 - 04-Jun-2022 03:04  | [figs/ns_20220603](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20220603/index.md) | Ignoring Mosaics | &cross;|
 |  [ns_20220906](http://ianan.github.io/nsigh_all/#obs-31-06-sep-2022) | 06-Sep-2022 15:44 - 06-Sep-2022 21:33  | [figs/ns_20220906](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20220906/index.md)  | | &check;|
 |  [ns_20221209](http://ianan.github.io/nsigh_all/#obs-32-09-dec-2022) |  09-Dec-2022 23:38 - 10-Dec-2022 02:16 <br/> 11-Dec-2022 17:48 - 12-Dec-2022 00:55 | [figs/ns_20221209](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20221209/index.md) |  |&cross; |
-|  [ns_20230318](http://ianan.github.io/nsigh_all/#obs-33-18-mar-2023) |  18-Mar-2023 13:30 - 19-Mar-2023 00:07 | [figs/ns_20230318](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20230318/index.md) |  | :heavy_check_mark: |
+|  [ns_20230318](http://ianan.github.io/nsigh_all/#obs-33-18-mar-2023) |  18-Mar-2023 13:30 - 19-Mar-2023 00:07 | [figs/ns_20230318](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20230318/index.md) |  | &#10004; |
