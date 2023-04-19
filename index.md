@@ -1,4 +1,4 @@
-| [Old Sum](http://ianan.github.io/nsigh_all/)  |  Dates & Times |  Summary page <br/>& Figs Dir | Notes | [XSM](https://www.prl.res.in/ch2xsm/) + Flares |
+| [Old Summary](http://ianan.github.io/nsigh_all/)  |  Dates & Times |  Summary page <br/>& Figs Dir | Notes | [XSM](https://www.prl.res.in/ch2xsm/) + Flares |
 |:---:|:---:|:---:|:---:|:---:|
 |  [ns_20200606](http://ianan.github.io/nsigh_all/#obs-22-06-jun-2020) | 06-Jun-2020 19:07 - 06-Jun-2020 21:37 <br/> 07-Jun-2020 19:16 - 07-Jun-2020 21:46 <br/> 08-Jun-2020 19:26 - 08-Jun-2020 21:56 <br/> 09-Jun-2020 14:46 - 09-Jun-2020 15:46 | [summary page](figs/ns_20200606/index.html)<br/>[figs/ns_20200606](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20200606/index.md) |  Quieter 08/09 Jun | &#10008; |
 |  ~~[ns_20200912](http://ianan.github.io/nsigh_all/#obs-23-12-sep-2020)~~ |  |  | Quiet Sun | &#10008; |
