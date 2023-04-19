@@ -1,7 +1,6 @@
 | [Old Summary](http://ianan.github.io/nsigh_all/)  |  Dates & Times |  Summary page <br/>& Figs Dir | Notes | [XSM](https://www.prl.res.in/ch2xsm/) + Flares |
 |:---:|:---:|:---:|:---:|:---:|
 |  [ns_20200606](http://ianan.github.io/nsigh_all/#obs-22-06-jun-2020) | 06-Jun-2020 19:07 - 06-Jun-2020 21:37 <br/> 07-Jun-2020 19:16 - 07-Jun-2020 21:46 <br/> 08-Jun-2020 19:26 - 08-Jun-2020 21:56 <br/> 09-Jun-2020 14:46 - 09-Jun-2020 15:46 | [summary page](figs/ns_20200606/index.html)<br/>[figs/ns_20200606](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20200606/index.md) |  Quieter 08/09 Jun | &#10008; |
-|  ~~[ns_20200912](http://ianan.github.io/nsigh_all/#obs-23-12-sep-2020)~~ |  |  | Quiet Sun | &#10008; |
 |  [ns_20210108](http://ianan.github.io/nsigh_all/#obs-24-08-jan-2021) | 08-Jan-2021 10:12 - 08-Jan-2021 16:03 <br/> 14-Jan-2021 09:34 - 14-Jan-2021 15:25 <br/> 20-Jan-2021 10:32 - 20-Jan-2021 14:45 | [summary page](figs/ns_20210108/index.html)<br/>[figs/ns_20210108](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20210108/index.md) |Quieter 08/14 Jan | &#10008;|
 |  [ns_20210429](http://ianan.github.io/nsigh_all/#obs-25-29-apr-2021) | 29-Apr-2021 14:53 - 29-Apr-2021 22:16 <br/> 03-May-2021 15:31 - 03-May-2021 22:58 <br/> 07-May-2021 14:33 - 07-May-2021 23:36 | [summary page](figs/ns_20210429/index.html)<br/>[figs/ns_20210429](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20210429/index.md) |  | &#10004; |
 |  [ns_20210720](http://ianan.github.io/nsigh_all/#obs-26-20-jul-2021) | 20-Jul-2021 00:24 - 20-Jul-2021 14:17  | [summary page](figs/ns_20210720/index.html)<br/>[figs/ns_20210720](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20210720/index.md) |  | &#10008; |
@@ -14,3 +13,5 @@
 |  [ns_20230318](http://ianan.github.io/nsigh_all/#obs-33-18-mar-2023) |  18-Mar-2023 13:30 - 19-Mar-2023 00:07 | [summary page](figs/ns_20230318/index.html)<br/>[figs/ns_20230318](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20230318/index.md) |  | &#10004; |
 
 [Link back to github repo](https://github.com/ianan/nsx_summ)
+
+Note: not including [ns_20200129](http://ianan.github.io/nsigh_all/#obs-20-29-jan-2020), [ns_20200221](http://ianan.github.io/nsigh_all/#obs-21-21-feb-2020) or [ns_20200912](http://ianan.github.io/nsigh_all/#obs-23-12-sep-2020) as too quiet and nothing with XSM, or STIX (Sep 2020 only).
