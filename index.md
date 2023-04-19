@@ -1,7 +1,5 @@
 | [Old Sum](http://ianan.github.io/nsigh_all/)  |  Dates & Times |  Summary page <br/>& Figs Dir | Notes | [XSM](https://www.prl.res.in/ch2xsm/) + Flares |
 |:---:|:---:|:---:|:---:|:---:|
-|  ~~[ns_20200109](http://ianan.github.io/nsigh_all/#obs-20-29-jan-2020)~~ |  |  |Quiet Sun | &#10008; |
-|  ~~[ns_20200221](http://ianan.github.io/nsigh_all/#obs-21-21-feb-2020)~~ |  |  | Quiet Sun | &#10008; |
 |  [ns_20200606](http://ianan.github.io/nsigh_all/#obs-22-06-jun-2020) | 06-Jun-2020 19:07 - 06-Jun-2020 21:37 <br/> 07-Jun-2020 19:16 - 07-Jun-2020 21:46 <br/> 08-Jun-2020 19:26 - 08-Jun-2020 21:56 <br/> 09-Jun-2020 14:46 - 09-Jun-2020 15:46 | [summary page](figs/ns_20200606/index.html)<br/>[figs/ns_20200606](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20200606/index.md) |  Quieter 08/09 Jun | &#10008; |
 |  ~~[ns_20200912](http://ianan.github.io/nsigh_all/#obs-23-12-sep-2020)~~ |  |  | Quiet Sun | &#10008; |
 |  [ns_20210108](http://ianan.github.io/nsigh_all/#obs-24-08-jan-2021) | 08-Jan-2021 10:12 - 08-Jan-2021 16:03 <br/> 14-Jan-2021 09:34 - 14-Jan-2021 15:25 <br/> 20-Jan-2021 10:32 - 20-Jan-2021 14:45 | [summary page](figs/ns_20210108/index.html)<br/>[figs/ns_20210108](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20210108/index.md) |Quieter 08/14 Jan | &#10008;|
@@ -14,3 +12,5 @@
 |  [ns_20220906](http://ianan.github.io/nsigh_all/#obs-31-06-sep-2022) | 06-Sep-2022 15:44 - 06-Sep-2022 21:33  | [summary page](figs/ns_20220906/index.html)<br/>[figs/ns_20220906](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20220906/index.md)  |  | &#10004;|
 |  [ns_20221209](http://ianan.github.io/nsigh_all/#obs-32-09-dec-2022) |  09-Dec-2022 23:38 - 10-Dec-2022 02:16 <br/> 11-Dec-2022 17:48 - 12-Dec-2022 00:55 | [summary page](figs/ns_20230318/index.html)<br/>[figs/ns_20221209](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20221209/index.md) |  | &#10008; |
 |  [ns_20230318](http://ianan.github.io/nsigh_all/#obs-33-18-mar-2023) |  18-Mar-2023 13:30 - 19-Mar-2023 00:07 | [summary page](figs/ns_20210108/index.html)<br/>[figs/ns_20230318](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20230318/index.md) |  | &#10004; |
+
+[Link back to github repo](https://github.com/ianan/nsx_summ)
