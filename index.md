@@ -14,4 +14,6 @@
 
 [Link back to github repo](https://github.com/ianan/nsx_summ)
 
+Made using [nustar_pysolar](https://github.com/NuSTAR/nustar_pysolar), [sunpy](https://sunpy.org), and [stixdcpy](https://github.com/i4Ds/stixdcpy).
+
 Note: not including [ns_20200129](http://ianan.github.io/nsigh_all/#obs-20-29-jan-2020), [ns_20200221](http://ianan.github.io/nsigh_all/#obs-21-21-feb-2020) or [ns_20200912](http://ianan.github.io/nsigh_all/#obs-23-12-sep-2020) as too quiet and nothing with XSM, or STIX (Sep 2020 only).
