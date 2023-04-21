@@ -9,4 +9,3 @@
 
 [Link back to main NuSTAR & STIX overview page](https://ianan.github.io/nsx_summ/)
 
-
