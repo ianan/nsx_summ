@@ -5,7 +5,7 @@
 |  [ns_20220906](http://ianan.github.io/nsigh_all/#obs-31-06-sep-2022) | 06-Sep-2022 15:44 - 06-Sep-2022 21:33  |  [summary page](ns_20220906/index.html)| |
 |  [ns_20230318](http://ianan.github.io/nsigh_all/#obs-33-18-mar-2023) |  18-Mar-2023 13:30 - 19-Mar-2023 00:07 |  [summary page](ns_20230318/index.html) | |
 
-[Link back to github repo](https://github.com/ianan/nsx_summ)
+[Link to SRIX & NuSTAR summary](https://ianan.github.io/nsx_summ/) | [Link back to github repo](https://github.com/ianan/nsx_summ)
 
-[Link back to main NuSTAR & STIX overview page](https://ianan.github.io/nsx_summ/)
+
 
