@@ -29,7 +29,7 @@ do
 		fname=${d:4:29}
 		obsid=${d:18:11}
    		# echo "|$obsid|![]($d)|![](map_$fname.png)|![](eph_$fname.png)|" | tee -a index.md
-		echo "|[![]($d)]($d)|$obsid<br/>[![](map_$fname.png)](map_$fname.png)|[![](orbeph_$fname.png)](orbeph_$fname.png)|" | tee -a index.md
+		echo "|[![]($d)]($d)|**$obsid [hk plot](hkltc_$fname.png)**<br/>[![](map_$fname.png)](map_$fname.png)|[![](orbeph_$fname.png)](orbeph_$fname.png)|" | tee -a index.md
 	done
 	cd $maindir
 done

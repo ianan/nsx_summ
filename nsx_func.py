@@ -16,6 +16,7 @@
 # 
 # 24-Sep-2022 IGH
 # 11-Apr-2023 Tweaked for nsx plotting
+# 26-Apr-2023 Added option to return more hk info
 # -----------------------------------
 
 from astropy.io import fits
@@ -47,7 +48,7 @@ def nsmapcen(nsmap):
 # ------------------------------------------
 # Lightcurve with livetime and rate per FPM
 def nsrate(maindir='',nsid='',clid='06_cl_sunpos',outfile='',\
-        englow=0,enghigh=0,xy_range=[],det_id='',lvt=True):
+        englow=0,enghigh=0,xy_range=[],det_id='',lvt=True, hk=False):
 
     fpm='A'
     hdulist = fits.open(maindir+nsid+'/event_cl/nu'+nsid+fpm+clid+'.evt')
@@ -113,6 +114,12 @@ def nsrate(maindir='',nsid='',clid='06_cl_sunpos',outfile='',\
     else:
         dfl=pd.DataFrame(np.array([rta,rtb]).T, \
             index=ltimsa.datetime[:len(cnta)], columns=['rta','rtb'])
+        
+    if hk:
+        dfl=pd.DataFrame(np.array([lda['LIVETIME'][:len(cnta)],ldb['LIVETIME'][:len(cntb)],rta,rtb,\
+                                lda['NACCEPT'][:len(cnta)],ldb['NACCEPT'][:len(cntb)],\
+                                lda['NREJECT'][:len(cnta)],ldb['NREJECT'][:len(cntb)]]).T, \
+            index=ltimsa.datetime[:len(cnta)], columns=['lvta','lvtb','rta','rtb','acca','accb','reja','rejb'])
 
     # truncate to time range of the evt file
     # Start/End round up/down to nearest 1s
