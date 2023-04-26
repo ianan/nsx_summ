@@ -16,5 +16,5 @@ Some info/caveats:
 To do:
 
 * ~~More NuSTAR campaigns~~
-* Add in XSM data
+* ~~Add in XSM data~~
 * ~~Nice web interface to the plots~~
