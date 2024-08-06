@@ -14,6 +14,7 @@
 |  [ns_20231228](http://ianan.github.io/nsigh_all/#obs-34-28-dec-2023) |  28-Dec-2023 14:18 - 29-Dec-2023 02:33 | [summary page](figs/ns_20231228/index.html)<br/>[figs/ns_20231228](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20231228/index.md) | High activity => some rejects |
 |  [ns_20240330](http://ianan.github.io/nsigh_all/#obs-35-30-mar-2024) |  30-Mar-2024 13:29 - 31-Mar-2024 03:17 | [summary page](figs/ns_20240330/index.html)<br/>[figs/ns_20240330](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20240330/index.md) | High activity => many rejects |
 |  [ns_20240630](http://ianan.github.io/nsigh_all/#obs-36-30-jun-2024) |  30-Jun-2024 17:01 - 30-Jun-2024 21:13 | [summary page](figs/ns_20240630/index.html)<br/>[figs/ns_20240630](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20240630/index.md) | High activity => some rejects |
+|  [ns_20240716](http://ianan.github.io/nsigh_all/#obs-37-16-jul-2024) |  16-Jul-2024 11:03 - 17-Jul-2024 06:31 | [summary page](figs/ns_20240716/index.html)<br/>[figs/ns_20240716](https://github.com/ianan/nsx_summ/tree/main/figs/ns_20240716/index.md) | High activity => many rejects |
 
 [Link to XSM + NuSTAR summary](xsm_figs/index.html) | [Link back to github repo](https://github.com/ianan/nsx_summ)
 
